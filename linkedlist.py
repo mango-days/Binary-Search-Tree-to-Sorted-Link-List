@@ -1,4 +1,5 @@
-# binary tree insertion
+# binary tree to a sorted singly linked list
+# the code has capacity to switch to a doubly linked list simply by replacing None values.
 
 class Node :
     def __init__ ( self , data ) :
